@@ -1,0 +1,8 @@
+*~*
+*.swp
+bin
+obj
+*.exe
+*.dll
+.DS_Store
+
